@@ -1,0 +1,5 @@
+[20-Jul-2011 03:56:29] PHP Fatal error:  Call to undefined function  get_option() in /home/ohsix/public_html/wp-content/plugins/wordgento/css/style.css.php on line 3
+[20-Jul-2011 03:59:26] PHP Fatal error:  Call to undefined function  get_option() in /home/ohsix/public_html/wp-content/plugins/wordgento/css/style.css.php on line 3
+[20-Jul-2011 03:59:32] PHP Fatal error:  Call to undefined function  get_option() in /home/ohsix/public_html/wp-content/plugins/wordgento/css/style.css.php on line 3
+[20-Jul-2011 04:00:00] PHP Fatal error:  Call to undefined function  get_option() in /home/ohsix/public_html/wp-content/plugins/wordgento/css/style.css.php on line 3
+[20-Jul-2011 04:02:53] PHP Fatal error:  Call to undefined function  wp_head() in /home/ohsix/public_html/wp-content/plugins/wordgento/css/style.css.php on line 2
